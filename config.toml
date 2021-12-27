@@ -1,0 +1,4 @@
+baseURL = "https://a-zurcher.github.io/"
+languageCode = "en-us"
+title = "hugo test site"
+theme = "hugo-theme-terminal"
